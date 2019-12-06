@@ -1,0 +1,18 @@
+import paramiko
+
+
+if __name__ == '__main__':
+    ssh = paramiko.SSHClient()
+    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+    ssh.connect(
+        hostname='10.10.10.32',
+        port=22,
+        username='root',
+        password='sjkj123..')
+    print("连接成功！")
+
+    chan = ssh.invoke_shell()
+    chan.send('pwd'+'\n')
+    output = chan.recv(2024)
+
+    print(type(output),output.decode(),output)
