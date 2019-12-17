@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc310329-f4e9-4865-96fe-b89d0d4fa05d" name="Default Changelist" comment="刷题leetcode，第一天">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Self_mprovement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/len.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/readme-checkpoint.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/01.初识Python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/02.语言元素.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/03.分支结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/04.循环结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/05.构造程序逻辑.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/06.函数和模块的使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/07.字符串和常用数据结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/08.面向对象编程基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/09.面向对象进阶.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/10.图形用户界面和游戏开发.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/11.文件和异常.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/12.字符串和正则表达式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/13.进程和线程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/14.网络编程入门和网络应用开发.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/15.图像和办公文档处理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01/flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01/peppa_pig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day02/centigrade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day02/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day02/leap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day02/operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day02/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day02/variable1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day02/variable2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day02/variable3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day02/variable4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day02/variable5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day03/conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day03/grade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day03/piecewise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day03/rolldice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day03/tax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day03/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day03/verify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day04/for1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day04/for2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day04/for3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day04/for4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day04/for5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day04/for6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day04/while1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day04/while2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day05/chicken.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day05/craps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day05/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day05/guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day05/lily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day05/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day05/perfect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day05/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day05/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day06/function1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day06/function2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day06/function3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day06/function4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day06/function5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day06/function6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/avgscore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/dict1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/dict2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/findmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/list1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/list2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/list3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/lottery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/marquee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/scoretable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/set1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/set2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/tic-tac-toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day07/yanghui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day08/access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day08/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day08/clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day08/guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day08/hack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day08/rect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day08/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/association.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/car1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/car2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/dependency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/diamond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/multi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/pet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/rational.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day09/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day10/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day10/gui1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day10/gui2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day10/gui3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day10/renju.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day10/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day10/turtle1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/csv1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/csv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/file1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/file2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/file3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/file4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/json1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/json2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/mm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/pi_million_digits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/teacher.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day11/致橡树.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day12/str1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day12/str2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day12/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day12/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day12/test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/asyncio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/asyncio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/asyncio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/coroutine1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/coroutine2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/generator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/generator2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/multiprocess1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/multiprocess2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/multiprocess3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/multiprocess4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/multithread1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/multithread2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/multithread3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/multithread4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/multithread5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/multithread6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/singlethread1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/singlethread2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day13/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/chatclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/chatserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/fileclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/fileserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/guido.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/mmdownloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/socket1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/socket2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/socket3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/socket4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/socket5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/timeclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day14/timeserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/excel1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/excel2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/pdf1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/pdf2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/pillow1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/res/Docker入门教程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/res/guido.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/res/luohao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/res/学生明细表.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/res/用函数还是用复杂的表达式.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/word1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day15/word2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/TCP-IP-model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/after-browser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/arpanet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/ball-game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/before-browser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/browers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/browser-market-place.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/fibonacci-blocks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/file-open-mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/formula_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/formula_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/formula_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/formula_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/formula_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/formula_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/formula_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/formula_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/how-data-is-processed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/image-crop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/image-filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/image-paste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/image-putpixel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/image-rotate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/image-show.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/image-thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/image-transpose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/ipython-timeit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/macos-monitor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/object-feature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/oop-zhihu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/osi_rm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/osimodel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/python-idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/python-ipython.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/python-jupyter-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/python-jupyter-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/python-pycharm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/python-set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/python-sublime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/tcpipprotocols.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/tel-start-number.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/telnet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/uml-components.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day01-15/res/uml-example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/16-20.Python语言进阶.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/example24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/test_example01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/code/test_example02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/res/algorithm_complexity_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day16-20/res/algorithm_complexity_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/21-30.Web前端概述.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/list_by_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/list_by_jquery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/list_by_vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/vue/vue.demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/audio/test-audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/audio/test-audio.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/css_practice_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/css_practice_1.result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/css_practice_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/css_practice_2.result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/css_practice_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/css_practice_3.result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_audio_video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_bom_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_css_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_css_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_css_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_css_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_css_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_iframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_jquery_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_jquery_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_jquery_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_jquery_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_jquery_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_js_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_js_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_js_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_js_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_js_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_js_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_js_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/example_of_vue_element.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/fonts/chunkfive.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/fonts/quicksand.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/backdrop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/bird.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/bok-choi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/button-sprite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/buttons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/chocolate-islands.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/clavinet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/dark-wood.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/dots.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/icon-plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/icons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/keys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/lemon-posset.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/logo-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/logo-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/logo-3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/magnolia-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/magnolia-medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/magnolia-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/otters.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/pattern.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/picture-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/picture-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/picture-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/print-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/print-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/print-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/print-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/print-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/print-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/puppy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/python-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/quokka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/rhodes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/roasted-brussel-sprouts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/slide-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/slide-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/subscribe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/teriyaki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/tim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/tulip.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/wurlitzer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/images/zucchini-cake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/js/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/js_practice_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/js_practice_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/js_practice_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/js_practice_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/js_practice_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/js_practice_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/js_practice_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/problem_of_float.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/shopping_cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/video/puppy.flv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/video/puppy.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/new/web1901/video/puppy.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/html+css/classical_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/html+css/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/html+css/form_and_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/html+css/qq_link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/example12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/homework01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/homework02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/homework03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/homework04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/homework05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/homework06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/homework07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/homework08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/picture-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/picture-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/picture-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/slide-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/slide-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/img/thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/js/mylib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/message.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/old/javascript/message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/垃圾分类查询/harmful-waste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/垃圾分类查询/kitchen-waste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/垃圾分类查询/other-waste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/垃圾分类查询/recyclable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/code/垃圾分类查询/垃圾分类.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/baidu_echarts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/bootstrap-layoutit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/browser-joke-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/browser-joke-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/browser-joke-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/dom-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/dom-tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/字体样式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/字符实体.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/客户端对字体文件的支持.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/尺寸单位.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/属性选择器.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/常用选择器.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/开始标签.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/标签属性.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/样式属性.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/盒子模型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/相对路径.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/经典布局-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/经典布局-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/结束标签.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/网站地图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/衬线字体+非衬线字体+等宽字体.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day21-30/res/选择器语法.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/31-35.玩转Linux操作系统.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/code/dayofyear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/code/guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/code/homework01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/code/josephu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/code/mycal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/andrew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/dmr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/file-mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/history-of-os.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/history-of-unix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/ibm-col80-punched-card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/ken-and-dennis-pdp-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/ken_old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/ken_young.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/linus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/linux-network-config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/pdp-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/pdp-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/vim-diff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/vim-macro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day31-35/res/vim-multi-window.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/36-38.关系型数据库MySQL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/39-40.NoSQL入门.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/code/HRS_create_and_init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/code/SRS_create_and_init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/code/contact/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/code/dist.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/code/library_create_and_init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/code/message/内部短消息系统.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/code/mooc_create_and_init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/code/sharebike_create_and_init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/code/shop_create_sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/code/srs_exercise_origin.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/conceptual_model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/er_diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-aof.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-bind-and-port.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-data-types.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-databases.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-hash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-rdb-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-rdb-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-replication.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-security.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-slow-logs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-string.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day36-40/res/redis-zset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/41.快速上手.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/42.深入模型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/43.静态资源和Ajax请求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/44.表单的应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/45.Cookie和Session.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/46.报表和日志.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/47.中间件的应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/48.前后端分离开发入门.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/49.RESTful架构和DRF入门.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/50.RESTful架构和DRF进阶.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/51.使用缓存.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/52.文件上传和富文本编辑.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/53.短信和邮件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/54.异步任务和定时任务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/55.单元测试和项目上线.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/images/captcha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/images/hot-icon-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/images/luohao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/images/wangdachui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/images/weiyixiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/images/xiaoshirong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/images/yuting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/images/zhangwuji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/polls_origin/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/cart/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/cart/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/cart/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/cart/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/cart/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/cart/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/cart/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/cart/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/shop/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/shop/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/static/images/dolbee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/static/images/lay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/static/images/noodle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/static/images/oil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/static/images/wang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/static/images/wine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop/templates/goods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/cart/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/cart/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/cart/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/cart/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/cart/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/cart/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/cart/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/cart/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/shop/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/shop/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/shop_create_sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/static/images/dolbee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/static/images/lay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/static/images/noodle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/static/images/oil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/static/images/wang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/static/images/wine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/code/shop_origin/templates/goods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/CSRF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/Django-Flowchart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/Django-MTV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/admin-login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/admin-model-create.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/admin-model-delete-and-update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/admin-model-depts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/admin-model-emps-modified.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/admin-model-emps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/admin-model-read.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/admin-model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/admin-welcome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/captcha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/cookie_xstorage_indexeddb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/django-index-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/django-index-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/echarts_bar_graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/er-graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/http-request.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/http-response.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/mvc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/sessionid_from_cookie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/show-depts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/show_subjects.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/show_teachers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day41-55/res/web-application.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day56-60/56.Flask入门.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day56-60/57.模板的使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day56-60/58.表单的处理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day56-60/59.数据库操作.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day56-60/60.项目实战.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/61.预备知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/62.Tornado入门.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/63.异步化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/64.WebSocket的应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/65.项目实战.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/chat_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/chat_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example_of_aiohttp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example_of_asyncio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example_of_coroutine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/example_of_multiprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/templates/chat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/hello-tornado/templates/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/css/amazeui.datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/css/amazeui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/css/app.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/css/fullcalendar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/css/fullcalendar.print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/html/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/html/calendar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/html/chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/html/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/html/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/html/sign-up.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/html/table-list-img.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/html/table-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/html/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/app-icon72x72@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/admin-chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/admin-firefox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/admin-ie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/admin-opera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/admin-safari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/adminPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/blogPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/landing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/landingPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/loginPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/examples/sidebarPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/i/startup-640x1096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/a5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/logoa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/logob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/user01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/user02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/user03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/user04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/user05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/user06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/img/user07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/js/amazeui.datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/js/amazeui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/js/dataTables.responsive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/js/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/js/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/js/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/assets/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/backend_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/service/handlers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/service/handlers/handlers_for_charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/service/handlers/handlers_for_nav.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/service/handlers/handlers_for_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/code/project_of_tornado/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/res/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/res/run-hello-world-app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/res/websocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day61-65/res/ws_wss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/66.网络爬虫和相关工具.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/67.数据采集和解析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/68.存储数据.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/69.并发下载.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/70.解析动态内容.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/71.表单交互和验证码处理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/72.Scrapy入门.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/73.Scrapy高级应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/74.Scrapy分布式实现.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/75.爬虫项目实战.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/asyncio01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/asyncio02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/coroutine01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/coroutine02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/douban/douban/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/douban/douban/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/douban/douban/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/douban/douban/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/douban/douban/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/douban/douban/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/douban/douban/spiders/movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/douban/result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/douban/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example10a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example11a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/example12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/generator01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/generator02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/guido.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/image360/image360/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/image360/image360/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/image360/image360/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/image360/image360/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/image360/image360/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/image360/image360/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/image360/image360/spiders/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/image360/image360/spiders/taobao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/image360/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/main_redis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/myutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/code/tesseract.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/api-image360.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/baidu-search-taobao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/chrome-developer-tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/crawler-workflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/douban-xpath.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/http-request.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/http-response.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/image360-website.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/postman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/redis-save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/scrapy-architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/res/tesseract.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day66-75/常见反爬策略及应对方案.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/76.机器学习基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/77.Pandas的应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/78.NumPy和SciPy的应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/79.Matplotlib和数据可视化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/80.k最近邻分类.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/81.决策树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/82.贝叶斯分类.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/83.支持向量机.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/84.K-均值聚类.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/85.回归分析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/86.大数据分析入门.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/87.大数据分析进阶.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/88.Tensorflow入门.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/89.Tensorflow实战.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/90.推荐系统实战.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/.ipynb_checkpoints/1-pandas入门-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/1-pandas入门.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/2-pandas-索引.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/3-pandas数据清洗之空数据.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/4-pandas多层索引.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/5-pandas多层索引计算.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/6-pandas数据集成.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/7-pandas数据集成merge.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/8-pandas分组聚合操作.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/9-pandas数据集成实战.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/cancer_predict.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/cancer_true.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/state-abbrevs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/state-areas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/code/state-population.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/201205230001213115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/201205230001238839.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/20120523000125800.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/result-in-jupyter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/result1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/result2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/result3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/result4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/result5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/result6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/result7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/result8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day76-90/res/result9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/100.Python面试题集.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/91.团队项目开发的问题和解决方案.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/92.Docker容器详解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/93.MySQL性能优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/94.网络API接口设计.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/95.使用Django开发商业项目.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/96.软件测试和自动化测试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/97.电商网站技术要点剖析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/98.项目部署上线和性能调优.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/99.面试中的公共问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/01.django_single_server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/02.django_dedicated_db_server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/03.django_dedicated_static_server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/04.django_load_balance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/05.django_massive_cluster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/Celery_RabitMQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/Producer-Broker-Consumer-Arrangement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/algorithm_complexity_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/algorithm_complexity_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/alipay_web_developer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/aliyun-certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/aliyun-dnslist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/aliyun-domain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/aliyun-keeprecord.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/aliyun-resolve-settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/builtin-middlewares.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/celery_architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/click-jacking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/company_architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/django-middleware.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/django-mtv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/django_request_response_cycle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/docker_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/docker_vs_vm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/dockerhub-repo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/er-graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/git-flow-detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/git-flow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/git-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/git-rebase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/git-reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/git_repository.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/gitee-add-members.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/gitee-create-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/gitee-project-index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/gitee-pull-request.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/gitlab-about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/gitlab-new-issue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/hadoop_ecosystem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/http-request.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/http-response.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/jenkins-create-admin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/jenkins-unlock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/jenkins_new_project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/mvc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/oauth2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/power-designer-pdm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/pylint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/python_jobs_chengdu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/python_salary_chengdu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/rbac-basic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/rbac-full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/requirements_by_xmind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/selenium_ide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/shopping-pdm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/the-daily-scrum-in-the-sprint-cycle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/uml-class-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/uml-graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/uml.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/unlock-jenkins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/web-application.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/zentao-index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Day91-100/res/zentao-login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/PEP8风格指南.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Python之禅.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Python参考书籍.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/Python编程惯例.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/agile-scrum-sprint-cycle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/company_architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/create-new-repo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/dns-configuration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/donation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/donation2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/hadoop_ecosystem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/hexo-default-index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/int-is-comparation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/power-designer-pdm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-activate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-comm-django-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-comm-django-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-comm-django-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-comm-django-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-comm-django-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-comm-django-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-comm-django-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-comm-django-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-create-launcher-script.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-import-settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-new-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-plugins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-prof-django-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-prof-django-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-set-ui-theme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-welcome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pycharm-workspace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/pylint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-bj-salary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-built-in-functions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-job-all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-job-chengdu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-qq-group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-salary-beijing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-salary-chengdu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-salary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-top-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-tutor-visualize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python-tutor-visualize2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python_jobs_chengdu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/python_salary_chengdu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/rbac-basic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/rbac-full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/requirements_by_xmind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/result-of-dis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/uml-class-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/wanwang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/res/zen-of-python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第04次公开课-好玩的Python/code/example01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第04次公开课-好玩的Python/code/resources/chiling.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第04次公开课-好玩的Python/code/resources/frame.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第04次公开课-好玩的Python/res/requests.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第04次公开课-好玩的Python/好玩的Python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第05次公开课-算法入门系列1-周而复始/code/Python_Tricks_encrypted.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第05次公开课-算法入门系列1-周而复始/code/dictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第05次公开课-算法入门系列1-周而复始/code/example01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第05次公开课-算法入门系列1-周而复始/code/example02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第05次公开课-算法入门系列1-周而复始/code/example03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第05次公开课-算法入门系列1-周而复始/code/example04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第05次公开课-算法入门系列1-周而复始/code/example05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第05次公开课-算法入门系列1-周而复始/code/example06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第05次公开课-算法入门系列1-周而复始/算法入门系列1-周而复始.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第05次公开课-算法入门系列1-周而复始/算法入门系列1-周而复始.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/code/example01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/code/example02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/code/example03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/code/example04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/code/example05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/res/droste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/res/eight_queen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/res/knight_tour.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/res/maze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/算法入门系列2 - 在水一方.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/文档/第06次公开课-算法入门系列2-在水一方/算法入门系列2-在水一方.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/公开课/视频/视频链接.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/更新日志.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/玩转PyCharm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/FTX（租房项目）接口文档.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/Python面试题汇总.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/code/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/code/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/code/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/code/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/code/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/code/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/code/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/code/test03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/使用Hexo搭建自己的博客.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/我为什么选择了Python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/用函数还是用复杂的表达式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/知乎问题回答.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/英语面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-100-Days-master/番外篇/那些年我们踩过的那些坑.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_dome/.ipynb_checkpoints/leetcode_Day001-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_dome/leetcode_Day001.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/.ipynb_checkpoints/Day001-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/Day001.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/Day002.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/Day003.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/Day004.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/Day005.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/Day006.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/Day007.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_study/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baidu_AI_API/.idea/baidu_AI_API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tellhow/hive_check_rule/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tellhow/check_rule/rule_exec.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tellhow/check_rule/rule_exec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tellhow/检核sql产出/demo.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Self_mprovement" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+        <option value="Jupyter" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\PycharmProjects\Self_mprovement\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="72c79436-5f46-4a03-b604-ea030fb140f2">
+    <option name="files">
+      <option value="self_study\Day001.ipynb" />
+      <option value="self_study\Day002.ipynb" />
+      <option value="self_study\Day003.ipynb" />
+      <option value="self_study\Day004.ipynb" />
+      <option value="self_study\Day005.ipynb" />
+      <option value="self_study\Day006.ipynb" />
+      <option value="self_study\Day007.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1UrPg2pYBEmiF6r7FSMNlnpyg0F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python&#10;XHTML" />
+    <property name="last_opened_file_path" value="G:/" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Python.peppa_pig">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Self_mprovement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_study/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Self_mprovement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01/flag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Self_mprovement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="peppa_pig" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Self_mprovement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01/peppa_pig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.peppa_pig" />
+        <item itemvalue="Python.flag" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc310329-f4e9-4865-96fe-b89d0d4fa05d" name="Default Changelist" comment="" />
+      <created>1576111848821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576111848821</updated>
+      <workItem from="1576111852108" duration="60000" />
+      <workItem from="1576111965075" duration="1239000" />
+      <workItem from="1576117345658" duration="1816000" />
+      <workItem from="1576135885763" duration="2827000" />
+      <workItem from="1576139615885" duration="1066000" />
+      <workItem from="1576140746426" duration="106000" />
+      <workItem from="1576141025333" duration="62000" />
+      <workItem from="1576141101024" duration="2345000" />
+      <workItem from="1576197650024" duration="1162000" />
+      <workItem from="1576202727789" duration="7689000" />
+      <workItem from="1576464154394" duration="481000" />
+      <workItem from="1576464716817" duration="15989000" />
+      <workItem from="1576562753724" duration="396000" />
+      <workItem from="1576563274141" duration="455000" />
+      <workItem from="1576563760199" duration="806000" />
+      <workItem from="1576564591623" duration="832000" />
+      <workItem from="1576565473206" duration="177000" />
+      <workItem from="1576565897110" duration="1583000" />
+      <workItem from="1576570359473" duration="2075000" />
+      <workItem from="1576575476337" duration="727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="用notebook记录下东东" />
+    <MESSAGE value="刷题leetcode，第一天" />
+    <option name="LAST_COMMIT_MESSAGE" value="刷题leetcode，第一天" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="169" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576141415943">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="309" y="169" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576141415943" />
+    <state x="588" y="303" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576565028248">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="588" y="303" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.1027@0.0.1707.1027" timestamp="1576565028247" />
+    <state x="534" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576464594906">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="534" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576464594906" />
+    <state x="511" y="24" key="CommitChangelistDialog2" timestamp="1576575558428">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="511" y="24" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1576575558428" />
+    <state x="644" y="374" width="442" height="289" key="Github.CreatePullRequestDialog" timestamp="1576575952594">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="644" y="374" width="442" height="289" key="Github.CreatePullRequestDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576575952594" />
+    <state width="1254" height="320" key="GridCell.Tab.0.bottom" timestamp="1576488846382">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1254" height="320" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1576488846382" />
+    <state width="1254" height="320" key="GridCell.Tab.0.center" timestamp="1576488846382">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1254" height="320" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1576488846382" />
+    <state width="1254" height="320" key="GridCell.Tab.0.left" timestamp="1576488846382">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1254" height="320" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1576488846382" />
+    <state width="1254" height="320" key="GridCell.Tab.0.right" timestamp="1576488846382">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1254" height="320" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1576488846382" />
+    <state width="1254" height="320" key="GridCell.Tab.1.bottom" timestamp="1576488846383">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1254" height="320" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1576488846383" />
+    <state width="1254" height="320" key="GridCell.Tab.1.center" timestamp="1576488846382">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1254" height="320" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1576488846382" />
+    <state width="1254" height="320" key="GridCell.Tab.1.left" timestamp="1576488846382">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1254" height="320" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1576488846382" />
+    <state width="1254" height="320" key="GridCell.Tab.1.right" timestamp="1576488846383">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1254" height="320" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1576488846383" />
+    <state x="434" y="248" key="IDE.errors.dialog" timestamp="1576464586854">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="434" y="248" key="IDE.errors.dialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576464586854" />
+    <state x="727" y="139" key="RollbackChangesDialog" timestamp="1576563620142">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="727" y="139" key="RollbackChangesDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576563620142" />
+    <state x="422" y="143" key="SettingsEditor" timestamp="1576575836709">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="422" y="143" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1576575836709" />
+    <state x="446" y="243" key="Vcs.Push.Dialog.v2" timestamp="1576576177435">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="446" y="243" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1576576177435" />
+    <state x="479" y="165" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1576575950461">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="479" y="165" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576575950461" />
+    <state x="537" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1576575476327">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="537" y="338" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576575476327" />
+    <state x="702" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576563099345">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="702" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.1027@0.0.1707.1027" timestamp="1576563099345" />
+    <state x="638" y="292" key="git4idea.merge.GitMergeDialog" timestamp="1576576031389">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="638" y="292" key="git4idea.merge.GitMergeDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576576031389" />
+    <state x="575" y="287" key="git4idea.merge.GitPullDialog" timestamp="1576576270695">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="575" y="287" key="git4idea.merge.GitPullDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576576270695" />
+    <state x="629" y="356" key="git4idea.rebase.GitRebaseDialog" timestamp="1576576107200">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="629" y="356" key="git4idea.rebase.GitRebaseDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576576107200" />
+    <state x="658" y="400" key="git4idea.ui.GitResetDialog" timestamp="1576576161380">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="658" y="400" key="git4idea.ui.GitResetDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576576161380" />
+    <state x="658" y="346" key="git4idea.ui.GitTagDialog" timestamp="1576576049195">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="658" y="346" key="git4idea.ui.GitTagDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576576049195" />
+    <state x="941" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1576477520530">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="941" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1576477520530" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Self_mprovement$hello.coverage" NAME="hello Coverage Results" MODIFIED="1576202919616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01" />
+    <SUITE FILE_PATH="coverage/Self_mprovement$demo.coverage" NAME="demo Coverage Results" MODIFIED="1576205682724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self_study" />
+    <SUITE FILE_PATH="coverage/Self_mprovement$peppa_pig.coverage" NAME="peppa_pig Coverage Results" MODIFIED="1576206081337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01" />
+    <SUITE FILE_PATH="coverage/Self_mprovement$flag.coverage" NAME="flag Coverage Results" MODIFIED="1576204142962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-100-Days-master/Day01-15/code/Day01" />
+  </component>
+</project>
